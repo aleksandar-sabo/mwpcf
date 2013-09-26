@@ -1,0 +1,34 @@
+{
+    "name": "ManageWP",
+    "description": "The Ultimate Wordpress dashboard. Manage all your Wordpress sites from one place.",
+    "version": "1.3",
+    "category": "webmaster",
+    "main": "",
+    "config":{
+        "details":{
+            "Language": "English",
+            "Price": "Free",
+            "Restrictions": "5 websites in free plan",
+            "TOS":"https://managewp.com/terms-of-service",
+            "has_js": false
+        }, 
+        "assets":{
+            "logos" : {
+                "200px": "./public/images/logo-200.png",
+                "132px": "./public/images/logo-132.png"
+            },
+            "detail_page" : [
+                "./public/images/example.png"
+            ],
+            "images" : [
+                "./public/images/counter.png"
+            ]
+        },
+        "interface": [
+        ]
+    },
+    "account": {
+        "callback_url": "https://managewp.com/api/2.0/cloudflare",
+        "user_fields": ["email"]
+    }
+}
