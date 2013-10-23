@@ -1,4 +1,3 @@
-mwpcf
-=====
+#ManageWP CloudFlare js manifest
 
-ManageWP CloudFlare js manifest
+coming soon!
