@@ -1,7 +1,7 @@
 {
     "name": "ManageWP-Test",
     "description": "The Ultimate Wordpress dashboard. Manage all your Wordpress sites from one place.",
-    "version": "1.4",
+    "version": "1.5",
     "category": "webmaster",
     "main": "",
     "config":{
