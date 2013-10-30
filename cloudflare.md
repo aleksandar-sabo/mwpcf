@@ -4,7 +4,14 @@ ManageWP is the easiest way to automate your WordPress management for virtually 
 
 [![ManageWP Video](/public/images/mwp-video.png)](http://fast.wistia.net/embed/iframe/ccxcd9wws5)
 
-###Manage your WordPress website
+![ManageWP Dashboard](/public/images/mwp-dash.png)
+
+###WordPress Automation At Its Finest
+
+ManageWP is allows you to easily manage, monitor, backup, optimize, deploy, publish, and secure any number of WordPress sites with minimal effort. In the process, we save you massive amounts of time and effort that would otherwise be spent on menial WordPress management and maintenance related tasks.
+
+Our service empowers you to focus on the things that matter most, your content, your customers, and your business.
+
 
 ####One-click Access
 Accessing all of your WordPress sites is now a breeze with our intuitive one-click access. Simply click on the WordPress site you want to manage, and you’re instantly logged in and ready to manage. No more passwords!
