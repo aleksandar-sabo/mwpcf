@@ -2,7 +2,7 @@
 
 ManageWP is the easiest way to automate your WordPress management for virtually any number of WordPress websites.
 
-<iframe src="http://fast.wistia.net/embed/iframe/ccxcd9wws5" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe>
+[![ManageWP Video](/public/images/mwp-video.png)](http://fast.wistia.net/embed/iframe/ccxcd9wws5)
 
 ###Manage your WordPress website
 
