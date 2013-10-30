@@ -17,6 +17,8 @@ Our service empowers you to focus on the things that matter most, your content, 
 ManageWP is the premiere solution for all your management, maintenance, and accessibility needs. You can access all your websites with a single click; no more remembering passwords. You can easily update, install, remove, and maintain all of your themes, plugins, and WordPress installations, all with a few clicks. And we keep you informed for those times when your sites need your attention.
 
 ###Backup, Monitoring, & Security
+![ManageWP Dashboard](/public/images/mwp-backup.png)
+
 ManageWP makes it as easy as possible for you to backup, monitor, and secure your websites. We have automated backup scheduling tools that allow you to make copies of your important data and send them to FTP, Email, Dropbox, Google Drive, and Amazon S3. Our uptime monitoring tools ensure that you can address any potential problems quickly. And our IP-restricted login, two-factor authentication (via email or SMS), and integration with Sucuri ensures your WordPress sites are safe and secure.
 
 
