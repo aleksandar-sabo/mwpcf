@@ -29,6 +29,6 @@
     },
     "account": {
         "callback_url": "https://managewp.com/api/2.0/cloudflare",
-        "user_fields": ["email"]
+        "user_fields": ["email", "account_id"]
     }
 }
