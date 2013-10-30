@@ -1,17 +1,14 @@
 {
     "name": "ManageWP",
     "description": "The Ultimate WordPress dashboard. Manage all your WordPress sites from one place.",
-    "version": "1.5",
-    "name": "ManageWP-Test",
-    "description": "The Ultimate Wordpress dashboard. Manage all your Wordpress sites from one place.",
-    "version": "1.5",
+    "version": "1.6",
     "category": "webmaster",
     "main": "",
     "config":{
         "details":{
             "Language": "English",
             "Price": "Free",
-            "Restrictions": "5 websites in free plan",
+            "Restrictions": "Free plan is available for up to 5 websites with limited functionality.",
             "TOS":"https://managewp.com/terms-of-service",
             "has_js": false
         }, 
