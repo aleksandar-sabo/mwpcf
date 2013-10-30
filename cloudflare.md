@@ -33,7 +33,7 @@ With premium uptime monitoring tools, you’ll ensure that your WordPress sites 
 ####How does ManageWP work?
 ManageWP is a dashboard that connects all of your individual WordPress sites together. We can accomplish this with the ManageWP Worker plugin, which, after  easily installed to each of your sites, enables ManageWP to securely communicate with your WordPress sites.
 
-You can view our [user guide](https://managewp.com/user-guide, 'ManageWP User Guide'), [video tutorials](https://managewp.com/user-guide/video-tutorials, 'ManageWP Video Tutorials'), and [FAQ](https://managewp.com/user-guide/faq, '') for more information.
+You can view our [user guide](https://managewp.com/user-guide 'ManageWP User Guide'), [video tutorials](https://managewp.com/user-guide/video-tutorials 'ManageWP Video Tutorials'), and [FAQ](https://managewp.com/user-guide/faq '') for more information.
 
 ####Is there a risk-free trial?
 Yes. ManageWP includes a risk-free 14-day trial  that gives you access to all our functionality.
