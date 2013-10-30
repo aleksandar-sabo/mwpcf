@@ -28,7 +28,6 @@ ManageWP makes it as easy as possible for you to backup, monitor, and secure you
 Our service also helps you rapidly deploy and migrate sites, a task that, after using ManageWP, you’ll no longer mind performing. Our migration and clone tools enables you to create ready-to-use template sites that can be easily deployed to a live environment with a few clicks, perfect for web hosts or people who manage sites on behalf of others. If you need to migrate to a new webhost, our tools also make this an effortless task that can be accomplished in a fraction of the time
 
 ###FAQ
-With premium uptime monitoring tools, you’ll ensure that your WordPress sites will continue to run smoothly so that your business can continue to function at full capacity. But if something does go wrong, you’ll be the first to know.
 
 ####How does ManageWP work?
 ManageWP is a dashboard that connects all of your individual WordPress sites together. We can accomplish this with the ManageWP Worker plugin, which, after  easily installed to each of your sites, enables ManageWP to securely communicate with your WordPress sites.
