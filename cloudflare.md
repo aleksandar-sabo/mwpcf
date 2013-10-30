@@ -1,8 +1,8 @@
 #ManageWP
 
-##The first thing you should do after installing WordPress
+##ManageWP is the easiest way to automate your WordPress management for virtually any number of WordPress websites.
 
-The ultimate WordPress dashboard
+<iframe src="http://fast.wistia.net/embed/iframe/ccxcd9wws5" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe>
 
 ###Manage your WordPress website
 
