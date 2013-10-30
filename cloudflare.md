@@ -21,6 +21,8 @@ ManageWP makes it as easy as possible for you to backup, monitor, and secure you
 
 
 ###Deployment & Migration
+![ManageWP Dashboard](/public/images/mwp-clone.png)
+
 Our service also helps you rapidly deploy and migrate sites, a task that, after using ManageWP, you’ll no longer mind performing. Our migration and clone tools enables you to create ready-to-use template sites that can be easily deployed to a live environment with a few clicks, perfect for web hosts or people who manage sites on behalf of others. If you need to migrate to a new webhost, our tools also make this an effortless task that can be accomplished in a fraction of the time
 
 ###FAQ
