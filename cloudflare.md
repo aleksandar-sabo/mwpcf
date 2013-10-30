@@ -1,13 +1,10 @@
 #ManageWP
----------------------------------------
 
 ManageWP is the easiest way to automate your WordPress management for virtually any number of WordPress websites.
 
 [![ManageWP Video](/public/images/mwp-video.png)](http://fast.wistia.net/embed/iframe/ccxcd9wws5)
 
 ![ManageWP Dashboard](/public/images/mwp-dash.png)
-
----------------------------------------
 
 ###WordPress Automation At Its Finest
 
