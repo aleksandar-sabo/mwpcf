@@ -2,7 +2,7 @@
 
 ManageWP is the easiest way to automate your WordPress management for virtually any number of WordPress websites.
 
-[![ManageWP Video](/public/images/mwp-video.png)](http://fast.wistia.net/embed/iframe/ccxcd9wws5)
+[![ManageWP Video](https://managewp.com/images/mwp-video.png)](http://fast.wistia.net/embed/iframe/ccxcd9wws5)
 
 ###WordPress Automation At Its Finest
 
@@ -12,18 +12,18 @@ Our service empowers you to focus on the things that matter most, your content, 
 
 
 ###Management, Maintenance, & Access
-![ManageWP Dashboard](/public/images/mwp-dash.png)
+![ManageWP Dashboard](https://managewp.com/images/mwp-dash.png)
 
 ManageWP is the premiere solution for all your management, maintenance, and accessibility needs. You can access all your websites with a single click; no more remembering passwords. You can easily update, install, remove, and maintain all of your themes, plugins, and WordPress installations, all with a few clicks. And we keep you informed for those times when your sites need your attention.
 
 ###Backup, Monitoring, & Security
-![ManageWP Dashboard](/public/images/mwp-backup.png)
+![ManageWP Dashboard](https://managewp.com/images/mwp-backup.png)
 
 ManageWP makes it as easy as possible for you to backup, monitor, and secure your websites. We have automated backup scheduling tools that allow you to make copies of your important data and send them to FTP, Email, Dropbox, Google Drive, and Amazon S3. Our uptime monitoring tools ensure that you can address any potential problems quickly. And our IP-restricted login, two-factor authentication (via email or SMS), and integration with Sucuri ensures your WordPress sites are safe and secure.
 
 
 ###Deployment & Migration
-![ManageWP Dashboard](/public/images/mwp-clone.png)
+![ManageWP Dashboard](https://managewp.com/images/mwp-clone.png)
 
 Our service also helps you rapidly deploy and migrate sites, a task that, after using ManageWP, you’ll no longer mind performing. Our migration and clone tools enables you to create ready-to-use template sites that can be easily deployed to a live environment with a few clicks, perfect for web hosts or people who manage sites on behalf of others. If you need to migrate to a new webhost, our tools also make this an effortless task that can be accomplished in a fraction of the time
 
