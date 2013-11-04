@@ -1,7 +1,7 @@
 {
     "name": "ManageWP",
     "description": "The Ultimate WordPress dashboard. Manage all your WordPress sites from one place.",
-    "version": "1.6",
+    "version": "1.7",
     "category": "webmaster",
     "main": "",
     "config":{
